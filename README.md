@@ -46,7 +46,7 @@
     <li>导入成功后点击<strong>【连通性测试】</strong>，开启开关即可连接外网。</li>
 </ul>
 <div style="text-align: center; margin: 15px 0;">
-    <img src="ios-step-04.png" alt="导入订阅说明" style="max-width: 100%; border-radius: 5px;">
+    <img src="ios-step.png" alt="导入订阅说明" style="max-width: 100%; border-radius: 5px;">
 </div>
 
 </div>
