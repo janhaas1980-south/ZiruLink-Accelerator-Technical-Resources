@@ -17,7 +17,7 @@
     <li>打开手机 <strong>App Store</strong>，点击右上角头像进入账户页面。</li>
 </ul>
 <div style="text-align: center; margin: 15px 0;">
-    <img src="ios-step-01.png" alt="注册登录说明" style="max-width: 100%; border-radius: 5px;">
+    <img src="ios-step-05.png" alt="注册登录说明" style="max-width: 100%; border-radius: 5px;">
 </div>
 
 <h3 style="background: #f4f4f4; padding: 5px 10px; border-left: 4px solid #4A90E2;">2. 登录免费美区 Apple ID</h3>
