@@ -1,8 +1,6 @@
 # ZiruLink-Accelerator-Technical-Resources
-自如加速器官方技术仓库。提供基于 xudp 2.0 协议的链路调优方案、Shadowrocket 安装教程及环境风控对抗实战指南，助您实现跨境通讯顺滑自如。
-# ZiruLink-加速器-技术-资源
 
-自如加速器官方技术仓库。提供基于 xudp 2.0 协议的链路调优方案、Shadowrocket 安装教程及环境风控对抗实战指南，助你实现跨境通讯顺滑自如。
+自如加速器官方技术仓库。提供基于 xudp 2.0 协议的链路调优方案、Shadowrocket 安装教程及环境风控对抗实战指南，助您实现跨境通讯顺滑自如。
 
 ---
 
@@ -14,36 +12,49 @@
 
 <h3 style="background: #f4f4f4; padding: 5px 10px; border-left: 4px solid #4A90E2;">1. 账号注册与登录官网</h3>
 <ul>
-    <li>使用邮箱在官网 <a href="https://zirulink.com" target="_blank">zirulink.com</a> 注册并登录账号 [cite: 1, 3]。</li>
-    <li>点击菜单栏的<strong>【软件下载】</strong>，复制提供的<strong>免费美区 Apple ID</strong> [cite: 1, 4]。</li>
-    <li>打开手机 <strong>App Store</strong>，点击右上角头像进入账户页面 [cite: 1, 5]。</li>
+    <li>使用邮箱在官网 <a href="https://zirulink.com" target="_blank">zirulink.com</a> 注册并登录账号。</li>
+    <li>点击菜单栏的<strong>【软件下载】</strong>，复制提供的<strong>免费美区 Apple ID</strong>。</li>
+    <li>打开手机 <strong>App Store</strong>，点击右上角头像进入账户页面。</li>
 </ul>
+<div style="text-align: center; margin: 15px 0;">
+    <img src="ios-step-01.png" alt="注册登录说明" style="max-width: 100%; border-radius: 5px;">
+</div>
 
 <h3 style="background: #f4f4f4; padding: 5px 10px; border-left: 4px solid #4A90E2;">2. 登录免费美区 Apple ID</h3>
 <ul>
-    <li>在账户页面拉到最底部，点击<strong>【退出登录】</strong> [cite: 1, 7]。</li>
-    <li>将获取的<strong>免费美区 Apple ID</strong> 粘贴进去并输入密码登录 [cite: 1, 8]。</li>
-    <li>弹出认证后点击<strong>【其他选项】</strong>并选择<strong>【不升级】</strong> [cite: 1, 9, 11]。</li>
+    <li>在账户页面拉到最底部，点击<strong>【退出登录】</strong>。</li>
+    <li>将获取的<strong>免费美区 Apple ID</strong> 粘贴进去并输入密码登录。</li>
+    <li>弹出认证后点击<strong>【其他选项】</strong>并选择<strong>【不升级】</strong>。</li>
 </ul>
+<div style="text-align: center; margin: 15px 0;">
+    <img src="ios-step-02.png" alt="登录美区ID说明" style="max-width: 100%; border-radius: 5px;">
+</div>
 
 <h3 style="background: #f4f4f4; padding: 5px 10px; border-left: 4px solid #4A90E2;">3. 安装 Shadowrocket 软件</h3>
 <ul>
-    <li>返回官网【软件下载】界面，点击<strong>【下载】</strong> [cite: 1, 12]。</li>
-    <li>在 App Store 中点击安装 Shadowrocket [cite: 1, 13]。</li>
+    <li>返回官网【软件下载】界面，点击<strong>【下载】</strong>。</li>
+    <li>在 App Store 中点击安装 Shadowrocket。</li>
 </ul>
+<div style="text-align: center; margin: 15px 0;">
+    <img src="ios-step-03.png" alt="安装软件说明" style="max-width: 100%; border-radius: 5px;">
+</div>
 
 <h3 style="background: #f4f4f4; padding: 5px 10px; border-left: 4px solid #4A90E2;">4. 购买订阅并一键导入</h3>
 <ul>
-    <li>官网点击<strong>【购买续费】</strong>，选择套餐并完成购买 [cite: 1, 15]。</li>
-    <li>返回首页点击<strong>【导入 Shadowrocket】</strong> [cite: 1, 16]。</li>
-    <li>导入成功后点击<strong>【连通性测试】</strong>，开启开关即可连接外网 [cite: 1, 17]。</li>
+    <li>官网点击<strong>【购买续费】</strong>，选择套餐并完成购买。</li>
+    <li>返回首页点击<strong>【导入 Shadowrocket】</strong>。</li>
+    <li>导入成功后点击<strong>【连通性测试】</strong>，开启开关即可连接外网。</li>
 </ul>
+<div style="text-align: center; margin: 15px 0;">
+    <img src="ios-step-04.png" alt="导入订阅说明" style="max-width: 100%; border-radius: 5px;">
+</div>
 
 </div>
 
 ---
 
-### 🛠️ 技术支持
-* **官方直连：** [zirulink.com](https://zirulink.com)
-* **性能白皮书：** [xudp 2.0 调优实战](https://www.babeedu.net/?p=760)
-* **技术主页：** [janhaas1980-south](https://github.com/janhaas1980-south/janhaas1980-south)
+### 🛠️ 技术支持与资源引导
+* **官方直连地址：** [ziru.us](https://ziru.us)
+* **性能监测白皮书：** [xudp 2.0 调优实战](https://www.babeedu.net/?p=760)
+* **GitHub 技术主页：** [janhaas1980-south](https://github.com/janhaas1980-south/janhaas1980-south)
+* **官方交流 QQ 群：** 1081900399
