@@ -12,7 +12,7 @@
 
 <h3 style="background: #f4f4f4; padding: 5px 10px; border-left: 4px solid #4A90E2;">1. 账号注册与登录官网</h3>
 <ul>
-    <li>使用邮箱在官网 <a href="https://zirulink.com" target="_blank">zirulink.com</a> 注册并登录账号。</li>
+    <li>使用邮箱在官网 <a href="https://ziru.us" target="_blank">zirulink.com</a> 注册并登录账号。</li>
     <li>点击菜单栏的<strong>【软件下载】</strong>，复制提供的<strong>免费美区 Apple ID</strong>。</li>
     <li>打开手机 <strong>App Store</strong>，点击右上角头像进入账户页面。</li>
 </ul>
