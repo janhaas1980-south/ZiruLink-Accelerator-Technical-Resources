@@ -12,7 +12,7 @@
 
 <h3 style="background: #f4f4f4; padding: 5px 10px; border-left: 4px solid #4A90E2;">1. 账号注册与登录官网</h3>
 <ul>
-    <li>使用邮箱在官网 <a href="https://ziru.us" target="_blank">zirulink.com</a> 注册并登录账号。</li>
+    <li>使用邮箱在官网 <a href="https://ziru.us" target="_blank">ziru.us</a> 注册并登录账号。</li>
     <li>点击菜单栏的<strong>【软件下载】</strong>，复制提供的<strong>免费美区 Apple ID</strong>。</li>
     <li>打开手机 <strong>App Store</strong>，点击右上角头像进入账户页面。</li>
 </ul>
@@ -56,5 +56,5 @@
 ### 🛠️ 技术支持与资源引导
 * **官方直连地址：** [ziru.us](https://ziru.us)
 * **性能监测白皮书：** [xudp 2.0 调优实战](https://www.babeedu.net/?p=760)
-* **GitHub 技术主页：** [janhaas1980-south](https://github.com/janhaas1980-south/janhaas1980-south)
+* **GitHub 技术主页：** [janhaas1980-south](https://ziru.us/janhaas1980-south/janhaas1980-south)
 * **官方交流 QQ 群：** 1081900399
