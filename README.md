@@ -56,5 +56,4 @@
 ### 🛠️ 技术支持与资源引导
 * **官方直连地址：** [ziru.us](https://ziru.us)
 * **性能监测白皮书：** [xudp 2.0 调优实战](https://www.babeedu.net/?p=760)
-* **GitHub 技术主页：** [janhaas1980-south](https://ziru.us/janhaas1980-south/janhaas1980-south)
-* **官方交流 QQ 群：** 1081900399
+* **官方交流TG ：@ziru921
